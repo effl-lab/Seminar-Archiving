@@ -4,10 +4,11 @@
 매주 EffLer 1명이 돌아가면서, 현재 본인이 연구하고 있는 분야 or 관심 분야의 논문을 1편씩 읽어 발표합니다. 
 - Presentation Materials are archived at `PT` Folder
 - Summarization ver. will uploaded at `Issue` tab
+! [Example] (https://github.com/effl-lab/Seminar-Archiving/issues/1)
   - 발표자가 "핵심만 요약" 하여 업로드
   - Issue Title : Paper Title
-  - Comment : Paper Summary (free, recommend 3-5 lines)
-  - Labels : **(필수)** 발표자, 컨퍼런스명(e.g., ICLR, ICML, CVPR, ICCV...) + 발표 일자, 주제와 관련된 키워드
+  - Comment : Paper Summary (free, recommend 3-5 lines + Architecture/Main Method Figure)
+  - Labels : **(필수)** 발표자, 컨퍼런스명 + 연도 (e.g., {ICLR, ICML, CVPR, ICCV...} + 2023), 주제와 관련된 키워드
     - 필수 Label 이외에는 편하게 붙여주시면 됩니다. 
 
 ----
